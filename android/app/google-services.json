@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "570800800281",
+    "firebase_url": "https://proyek-penelitian-a04c7-default-rtdb.firebaseio.com",
+    "project_id": "proyek-penelitian-a04c7",
+    "storage_bucket": "proyek-penelitian-a04c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570800800281:android:46090e3f786e743b38e088",
+        "android_client_info": {
+          "package_name": "com.emush.siram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWonDlmdQhMZzgzSu52CNMK2CIUGomD-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570800800281:android:29fe2afcc77cf26138e088",
+        "android_client_info": {
+          "package_name": "com.example.proyek_penelitian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWonDlmdQhMZzgzSu52CNMK2CIUGomD-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
